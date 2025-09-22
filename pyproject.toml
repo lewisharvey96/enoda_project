@@ -1,0 +1,26 @@
+[project]
+name = "enoda"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.4.7",
+    "jupyterlab-optuna>=0.2.4",
+    "jupytext>=1.17.3",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.6",
+    "mlforecast>=1.0.2",
+    "mrmr-selection>=0.2.8",
+    "optuna>=4.5.0",
+    "optuna-dashboard>=0.19.0",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "poethepoet>=0.37.0",
+    "ruff>=0.13.0",
+    "tables>=3.10.2",
+    "ty>=0.0.1a20",
+    "window-ops>=0.0.15",
+    "xgboost>=3.0.5",
+]
